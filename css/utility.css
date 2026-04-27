@@ -1,0 +1,35 @@
+ /* we will use this in any element we donot have to write the code every time  */
+
+.border{
+    border: 2px solid red;
+    margin: 2px;
+}
+
+.flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.items-center{
+    align-items: center;
+}
+.invert{
+    filter: invert(1);
+}
+
+.bg-grey{
+    background-color: #121211;
+}
+.rounded{
+    border-radius: 9px;
+}
+.m-1{
+    margin: 5px;
+}
+
+.p-1{
+    padding: 15px;
+}

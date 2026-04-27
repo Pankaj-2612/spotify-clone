@@ -1,0 +1,70 @@
+[
+  {
+    "folder": "angry_mood",
+    "title": "Angry Songs",
+    "description": "Calm Your Anger",
+    "cover": "songs/angry_mood/cover.jpg"
+  },
+  {
+    "folder": "chill_mood",
+    "title": "Chill Vibes",
+    "description": "Relaxing music",
+    "cover": "songs/chill_mood/cover.jpg"
+  }
+,
+  {
+    "folder": "diljit",
+    "title": "Diljit Songs",
+    "description": "Diljit For You",
+    "cover": "songs/diljit/cover.jpg"
+  },
+  {
+    "folder": "funky_mood",
+    "title": "Funky Vibes",
+    "description": "Let Be Funky",
+    "cover": "songs/funky_mood/cover.jpg"
+  }
+  ,{
+    "folder": "happy",
+    "title": "Happy Songs",
+    "description": "Always Be Happy",
+    "cover": "songs/happy/cover.jpg"
+  },
+  {
+    "folder": "karan_aujla",
+    "title": "Aujla Songs",
+    "description": "Karan Aujla For You",
+    "cover": "songs/karan_aujla/cover.jpg"
+  }
+  ,{
+    "folder": "lofi",
+    "title": "Lofi Songs",
+    "description": "Let Be Lofi",
+    "cover": "songs/lofi/cover.jpg"
+  },
+  {
+    "folder": "love",
+    "title": "Love Vibes",
+    "description": "Spread Love",
+    "cover": "songs/love/cover.jpg"
+  },
+  {
+    "folder": "Thinking",
+    "title": " Haryanvi Songs",
+    "description": "Haryanvi Romantic",
+    "cover": "songs/Thinking/cover.jpg"
+  },
+  {
+    "folder": "vibe",
+    "title": "Vibe Songs",
+    "description": "Always Vibing",
+    "cover": "songs/vibe/cover.jpg"
+  },
+
+  {
+    "folder": "Zone",
+    "title": "Zone Songs",
+    "description": "Be My Zone",
+    "cover": "songs/Zone/cover.jpg"
+  }
+]

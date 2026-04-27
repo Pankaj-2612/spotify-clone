@@ -1,0 +1,117 @@
+{
+  "angry_mood": ["Aarambh(0).mp3","Jagga_Jiteya(0).mp3",
+  "Kaley_Sheshe(0).mp3",
+  "Raftaarein(0).mp3",
+  "Shoorveer_III(0).mp3",
+"Ghamand_Kar.mp3",
+"Haryana_Hood(0).mp3"],
+
+
+  "chill_mood": [
+   "Alcoholic_.mp3", "_Aapka_Kya_Hoga_Janabe_Ali.mp3", "_Dum_Maaro_Dum.mp3", "_Lungi_Dance__The_Thalaiva_.mp3","_Sheila_Ki_Jawani.mp3", "_Subha_Hone_Na_De.mp3", "3_-_Why_This_Kolaveri_Di_.mp3",
+   "Munni_Badnaam_Hui.mp3", "Tumhi_Ho_Bandhu.mp3",
+   "Hookah_Bar.mp3",
+   "Fevicol_Se_Full.mp3"],
+
+
+  "diljit": ["Pistol.mp3",
+  "Tension.mp3",
+    "Baby Girl.mp3", 
+   "Advisory.mp3",
+"IDGAF.mp3"],
+
+
+  "funky_mood": [
+   "Kala_Chashma.mp3",
+   "Mauja_Hi_Mauja.mp3", "Tune_Maari_Entriyaan.mp3",
+  "Badtameez_Dil.mp3",
+  "_Chammak_Challo.mp3", "Ae_Dil_Hai_Mushkil.mp3", "Baby_Ko_Bass_Pasand hai.mp3" ],
+
+
+  "happy": [
+   "Kadam(0).mp3",
+    "MAAHI_VE(0).mp3","Naina_Da_Kya_Kasoor(0).mp3", "O_Sanam(0).mp3",
+    "PATAKHA_GUDDI(0).mp3","Sooraj_Ki_Baahon_Mein(0).mp3", "Woh_Din__.mp3",
+     "Yun_Hi_Chala_Chal(0).mp3",
+     "ILAHI(0).mp3",
+      "Dil_Dhadakne_Do(0).mp3"],
+
+
+  "karan_aujla": [
+    "Magnitude.mp3", 
+    "MF_GABHRU!.mp3", 
+    "P-POP_CULTURE.mp3", 
+    "Sandy s Interlude.mp3", 
+    "sped up anger.mp3", 
+    "You_re_U_Tho.mp3",
+    "I Really Do....mp3", 
+    "Daytona.mp3", 
+    "For A Reason.mp3", 
+    "HIM..mp3",
+    "I ma Do My Thiiing.mp3", 
+    "I REALLY DO Karan Aujla.mp3",
+    "Boyfriend_Gabhru!.mp3", 
+    "BOYFRIEND.mp3"],
+
+  "lofi": [
+    "Meri_Duniya_Hai.mp3", 
+  "O_Jaana.mp3", 
+  "Sun_Zara_.mp3", 
+  "Tum_Se_Hi.mp3", 
+  "Tumhein_Apna_Banane.mp3",
+"Ab_Tere_Bin_Lofi.mp3",
+"_Jaane_Kyon.mp3",
+"Hale_Dil_.mp3"],
+
+
+  "love": [
+    "KAUN_TUJHE.mp3", 
+  "Lag_Ja_Gale.mp3", 
+  "O_Maahi.mp3", 
+  "Padmaavat__Ek_Dil_Ek_Jaan.mp3", 
+  "Pehli_Dafa.mp3", 
+  "SANU_EK_PAL.mp3",
+"Chaleya.mp3", 
+"_Mere_Rashke_Qamar.mp3", 
+"_Tum_Hi_Ho.mp3",
+"Humsafar.mp3"],
+
+
+  "Thinking": [
+    "KITAB.mp3", 
+  "QUEEN.mp3",
+"Dhanda Nyoliwala - Tension.mp3", 
+"Dhanda Nyoliwala - Not Guilty.mp3",
+"Bairan.mp3"],
+
+
+  "vibe": [
+    "Official__Desi_Kalakaar.mp3", 
+  "Official__Issey_Kehte_Hain.mp3", 
+  "Party_All_Night.mp3", 
+  "Party_With_The Bhootnath.mp3", 
+  "This_Party_Getting_Hot.mp3",
+"HIGH_HEELS_.mp3", 
+"Dheere_Dheere_Se_Meri_Zindagi.mp3", 
+"Dope_Shope.mp3", 
+"Exclusive__LOVE_DOSE.mp3",
+"Chaar_Botal_Vodka.mp3", 
+"_One_Bottle_Down.mp3", 
+"Angreji_Beat.mp3", 
+"Blue_Eyes.mp3", 
+"BREAK_UP_PARTY.mp3",
+"Brown_Rang.mp3",
+"cover.jpg"],
+
+  "Zone": [
+    "Let_Down__Remastered.mp3",
+  "Lovers_Rock(0).mp3", 
+  "My_Love_Mine_All_Mine(0).mp3", 
+  "rises_the_moon(0).mp3", 
+  "Sailor_Song(0).mp3", 
+  "the_way_things_go(0).mp3", 
+  "Velvet_Ring(0).mp3",
+"Coffee(0).mp3",
+"anything.mp3",
+"From_The_Start(0).mp3"]
+}
