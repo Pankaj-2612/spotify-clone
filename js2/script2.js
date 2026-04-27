@@ -20,7 +20,7 @@ function formatTime(seconds) {
     return `${mins}:${secs}`;
 }
 
-// ✅ GET SONGS FROM songs2/songs.json
+// GET SONGS FROM songs2/songs.json
 async function getsongs(folder) {
     currentfolder = folder;
 
@@ -70,7 +70,7 @@ function playmusic(song, pause = false) {
     document.querySelector(".songtime").innerHTML = "00:00 / 00:00";
 }
 
-// ✅ LOAD ALBUMS FROM songs2/albums.json
+// LOAD ALBUMS FROM songs2/albums.json
 async function displayalbums() {
     let res = await fetch("songs2/albums.json");
     let data = await res.json();
